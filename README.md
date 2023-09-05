@@ -2,7 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-![Express Badge](https://img.shields.io/badge/Express.js-8A2BE2) ![Node Badge](https://img.shields.io/badge/Node.js-8A2BE2)
+![Express Badge](https://img.shields.io/badge/Express.js-8A2BE2) ![Node Badge](https://img.shields.io/badge/Node.js-8A2BE2) ![Sequelize Badge](https://img.shields.io/badge/Sequelize-8A2BE2)
 
 ## Description
 #### Motivation:
